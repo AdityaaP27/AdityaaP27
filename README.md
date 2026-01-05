@@ -1,4 +1,5 @@
 # 💫 About Me:
+AI Engineer
 Undergrad ML Researcher, IIT Bombay
 
 
